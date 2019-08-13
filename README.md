@@ -9,8 +9,8 @@
 
 ### Notebooks:
 * kggl_LR_DSG: enfoque utilizando Regresión Logística y Descenso de Gradiente
-* (completar)
-* (completar)
+* RandomForest: empleando el método de Random Forest y busqueda en grid de mejores parámetros
+* AdaBoost: empleando AdaBoost con base_estimator DecisionTree
 
 ### Carpetas:
 * ./data/    ::Contiene los dataset base del análisis.
