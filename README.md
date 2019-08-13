@@ -9,7 +9,7 @@
 
 ### Notebooks:
 * kggl_LR_DSG: enfoque utilizando Regresión Logística y Descenso de Gradiente
-* (completar)
+* RandomForest: empleando el método de Random Forest y busqueda en grid de mejores parámetros
 * (completar)
 
 ### Carpetas:
